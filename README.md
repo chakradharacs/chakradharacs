@@ -1,5 +1,5 @@
 
-Hey, I'm Chakradhara!
+## ✨Hey, I'm Chakradhara!
 
 I'm an Electronics and Communication Engineering student passionate about exploring the world of hardware, software, and everything in between. I enjoy experimenting with technology, solving problems, and bringing ideas to life.
 
