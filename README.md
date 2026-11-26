@@ -7,8 +7,8 @@ I'm an Electronics and Communication Engineering student passionate about explor
 
 ## 🚀 What Sparks My Curiosity
 
-- 🔌 Exploring the fascinating world of **Embedded Systems** and hardware-software integration.
-- 💻 Diving into **VLSI, RTL Design, and Digital Verification**.
+- 🔌 Exploring the fascinating world of Embedded Systems and hardware-software integration.
+- 💻 Diving into VLSI, RTL Design, and Digital Verification.
 - 📡 Experimenting with antenna design, RF systems, and electromagnetic simulations.
 - 🧩 Understanding how things work beneath the surface — one circuit, one line of code at a time.
 - 🌱 Always curious, always learning, always building.
